@@ -25,7 +25,7 @@ description: sangmook on software
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://iloveilmare.github.io" # the base hostname & protocol for your site
+url: "https://DevPageAnderson.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
