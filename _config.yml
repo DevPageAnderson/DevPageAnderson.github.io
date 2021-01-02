@@ -50,10 +50,10 @@ disqus_shortname:
 # todo_now (change as yours)
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Code for Development
+  - cat: Code
     desc: "C, C++, Java, Python, etc.."
 
-  - cat: My Life
+  - cat: Life
     desc: "..."
 # todo_end
 
