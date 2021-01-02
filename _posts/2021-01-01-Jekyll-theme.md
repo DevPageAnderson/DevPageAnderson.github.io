@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  jekyll theme를 사용한 기술 블로그 만들기
-date:   "2021-01-001 15:50:15"
+date:   "2021-01-01 15:50:15"
 author: Anderson
 categories: Code
 tag: github
