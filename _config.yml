@@ -14,11 +14,11 @@ exclude:
 
 # todo_now (change as yours)
 # Site settings
-title: sangmook on software
-subtitle: "A weblog by sangmook, a programmer working in Seungnam City, about software and lifehack."
-email: tech4human.ksm@gmail.com
-name: iloveilmare
-description: sangmook on software
+title: Tech Blog by Anderson
+subtitle: "기억을 위한 코드조각들..."
+email: sonkh16@gmail.com
+name: Anderson
+description: Tech Blog by Anderson
 # todo_now
 
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -50,11 +50,11 @@ disqus_shortname:
 # todo_now (change as yours)
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Software
-    desc: "android, java, kotlin, etc.."
+  - cat: Code for Development
+    desc: "C, C++, Java, Python, etc.."
 
-  - cat: Lifehack
-    desc: "programs, devices, ideas for personal use"
+  - cat: My Life
+    desc: "..."
 # todo_end
 
 # Social icons and sharing options
@@ -89,8 +89,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: iloveilmare
-    url: https://github.com/iloveilmare
+    username: DevPageAnderson
+    url: https://github.com/DevPageAnderson/DevPageAnderson.github.io
     desc: Fork me on GitHub
     share: false
 
@@ -197,7 +197,7 @@ protocols:
     twitter_image: "/assets/logo.png"
 
 # todo_now (change as yours)
-    os_repo: "https://github.com/iloveilmare/"
-    os_rcs_type: "git"
-    os_src: "git@github.com:iloveilmare/jekyll_centrarium_now.git"
+    os_repo: #"https://github.com/iloveilmare/"
+    os_rcs_type: #"git"
+    os_src: #"git@github.com:iloveilmare/jekyll_centrarium_now.git"
 # todo_end
