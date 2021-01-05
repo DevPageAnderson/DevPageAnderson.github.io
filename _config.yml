@@ -26,7 +26,7 @@ description: Tech Blog by Anderson
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://DevPageAnderson.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/header_image1.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
